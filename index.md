@@ -1,9 +1,9 @@
 # About
 
-This page describes the purpose of the Pinterest API application **[APP_NAME]**.
+This page describes the purpose of the Pinterest API application Chubatovcan_Autoposter.
 
-**Developer:** [YOUR_NAME or NICK] (individual developer)  
-**Contact:** [YOUR_EMAIL or TELEGRAM LINK]
+**Developer:** Ivan Chubatov (individual developer)  
+**Contact:** chubatovz@gmail.com
 
 **App purpose:**  
 The application is used to create and publish Pins to my own Pinterest Business account via the official Pinterest API. The app is for personal use only.
@@ -13,7 +13,7 @@ The application is used to create and publish Pins to my own Pinterest Business 
 # Privacy Policy
 
 ## 1. Who we are
-**[APP_NAME]** is an application developed by an individual developer for personal use.
+Chubatovcan_Autoposter is an application developed by an individual developer for personal use.
 
 ## 2. Data we process
 The app may process the minimum necessary Pinterest data to function, such as:
